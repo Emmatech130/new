@@ -1,0 +1,117 @@
+body {
+    background-color:navy
+}
+
+.icon {
+    max-width: 28%;
+
+}
+
+.header {
+background-image:url(img/hosipital2.jpeg);
+background-size: cover;
+padding-bottom: 15%;
+background-repeat: no-repeat;
+
+
+}
+li {
+    padding: 15px;
+    color: white;
+
+}
+
+.head {
+  
+    background-color: rgb(98, 0, 255);
+}
+.tech {
+    margin-top: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   -webkit-text-fill-color: red;
+   color: aliceblue;
+   text-shadow: 1px 1px 2px red;
+   -webkit-text-stroke-width: 2px;
+   margin-left: 5%;
+}
+.pen {
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   -webkit-text-fill-color: red;
+   color: aliceblue;
+   text-shadow: 1px 1px 2px red;
+   -webkit-text-stroke-width: 2px;
+   font-size: medium;
+   font-weight: 100;
+   margin-left: 5%;
+}
+.emma {
+    margin-top: 3%;
+    margin-left: 5%;
+    
+}
+.emma2 {
+margin-top: 3%;
+}
+.Raw {
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+    -webkit-text-stroke-width: 2px;
+    background-color: gray;
+}
+
+.porn {
+    text-align: center;
+    color: gold;
+}
+
+.text {
+    color: gold;
+    text-size-adjust: 10%;
+}
+
+.high {
+    color: aqua;
+}
+
+.me {
+    text-align: center;
+    font-size: large;
+    font-weight: 300;
+    font: 1em sans-serif;
+    margin-top: 2%;
+}
+
+.pix {
+    float: right;
+    margin-top: 3%;
+    margin-left: 15px;
+    
+}
+.para {
+    margin-left: 5%;
+}
+.buy {
+    margin-left: 5%;
+}
+.about {
+    text-align: center;
+    margin-top: 3%;
+}
+.lot {
+    margin: 12px;
+}
+
+.row {
+    float: right;
+}
+ .now {
+    margin-left: 5%;
+ }
+.services {
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+    margin-top: 5%;
+}
